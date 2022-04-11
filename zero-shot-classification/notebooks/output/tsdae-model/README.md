@@ -81,7 +81,7 @@ The model was trained with the parameters:
 
 **DataLoader**:
 
-`torch.utils.data.dataloader.DataLoader` of length 1330 with parameters:
+`torch.utils.data.dataloader.DataLoader` of length 20 with parameters:
 ```
 {'batch_size': 1, 'sampler': 'torch.utils.data.sampler.RandomSampler', 'batch_sampler': 'torch.utils.data.sampler.BatchSampler'}
 ```
