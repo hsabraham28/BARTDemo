@@ -1,0 +1,56 @@
+Acronyms,Definition,Notes
+ATO,Automatic Train Operation,
+,,
+,,
+BPD,BART Police Department ,
+,,
+,,
+CM,Corrective Maintenance,"PM can be planned, CM has to be ad hoc, as the correction is needed immediately "
+DCRM,DSS Control Resource Management,"Like SCRM, System Control and Resource Management, a program to monitor and control the devices/equipment for DSS (Destination Sign System)."
+DN,?,
+EBP,Emergency Backup Panel,Typcially part of SCADA system
+FEC,?,
+FIP,Field Interface Process,The computing object/process representing the physical devices of train control in the field in ICS
+FW,Forworker,
+,,
+,,
+,,
+hole,a schedule slot with no train in it - i.e. a train is taken out of service. ,"Examples:
+01/27 09:48: T519 hole L30-M90 roundtrip UFN due to car shortage.
+01/27 10:58: (ref 0948) T519 M90-1 now in service, previous hole filled."
+ICS,Integrated Control System,The computer system controlling and supporting all aspect of train services
+KMA,MacArthur Substation,
+,,
+NGD,Negative Ground Device,
+NOC,Networked Operation Center,maintenance hub for Communication Maintenance (TCCM)
+,,
+,,
+,,
+P&S,Power & ?,
+OCC,Operation Control Center,
+OCY,Concord Yard,
+ODY,Daly City Yard,
+,,
+OHY,Hayward Yard,
+OKS,Oakland Shops,
+ORY,,
+,,
+,,
+,,
+OOS,Out Of Service,
+PM,Preventive Maintenance,See CM
+PWC,?,
+SCADA,?,
+SNT,"""Station New Technology""",Text to speech engine for local train arrival announcements at stations
+SORS,,
+,,
+TBT,Trans-Bay Tunnel,
+TC,Train Control,
+TCCM,Train Control Communication Maintenance,
+TPM,Traction Power Management,Traction power is the electricity power to drive the train movement.
+TPSS,Traction Power Substation,
+T/O,Train Operator,
+TTB,Toll Test Board,The communication monitoring panel/dashboard
+UFN,Until Further Notice,
+VHLC,,
+VPI,?,
